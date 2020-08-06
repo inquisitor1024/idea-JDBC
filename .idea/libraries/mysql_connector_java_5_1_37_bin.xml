@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.37-bin">
+    <CLASSES>
+      <root url="jar://F:/资料/java黑马视频/01_第1阶段-JavaSE基础入门教程（共33天）/day29/day29_code/讲师代码/day29-DBUtils/lib/mysql-connector-java-5.1.37-bin.jar!/" />
+      <root url="jar://F:/Java/java黑马视频/01_第1阶段-JavaSE基础入门教程（共33天）/day29/day29_source/mysql-connector-java-5.1.37/mysql-connector-java-5.1.37-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
